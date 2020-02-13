@@ -1,13 +1,13 @@
 Package: blink182
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: A package to house Blink 182 things
+Version: 0.0.1
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Alessandra",
+           family = "Valcarcel",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: What license it uses
+           email = "alval@pennmedicine.upenn.edu",
+           comment = c(ORCID = "0000-0002-0869-1948"))
+Description: Calculates your age. What's my age again?
+License: GPL-2
 Encoding: UTF-8
 LazyData: true
