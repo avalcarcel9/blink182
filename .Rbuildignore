@@ -2,3 +2,5 @@
 ^\.Rproj\.user$
 ^README\.Rmd$
 ^data-raw$
+^appveyor\.yml$
+^\.travis\.yml$
