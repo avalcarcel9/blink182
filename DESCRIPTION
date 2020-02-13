@@ -12,10 +12,13 @@ License: GPL-2
 Encoding: UTF-8
 LazyData: true
 Depends: R (>= 2.10)
-Suggests: 
+Suggests:
+    spelling,
     knitr,
-    rmarkdown
+    rmarkdown,
+    testthat (>= 2.1.0)
 VignetteBuilder: knitr
 Imports: 
     lubridate
 RoxygenNote: 7.0.2
+Language: en-US

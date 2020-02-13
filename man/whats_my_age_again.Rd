@@ -10,7 +10,7 @@ whats_my_age_again(dob = NULL, enddate = NULL)
 \item{dob}{A string of the form 'MM/DD/YYYY' indicated your birthday}
 
 \item{enddate}{A string of the form 'MM/DD/YYYY' for another date to see how
-old you were}
+old you were trsing}
 }
 \value{
 lubridate object
