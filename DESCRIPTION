@@ -15,3 +15,6 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+Imports: 
+    lubridate
+RoxygenNote: 7.0.2
